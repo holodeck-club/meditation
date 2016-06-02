@@ -1,4 +1,5 @@
 # Holodeck Club > Meditation
 
-https://meditation.holodeck.club/
+For all your meditation needs in WebVR:
 
+__https://meditation.holodeck.club/__
