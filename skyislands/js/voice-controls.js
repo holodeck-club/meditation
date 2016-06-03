@@ -32,6 +32,10 @@
       {
         title: 'Space Blob Towers',
         slug: 'spaceblobtowers'
+      },
+      {
+        title: 'Dark Lotus',
+        slug: 'darklotus'
       }
     ]);
   }
